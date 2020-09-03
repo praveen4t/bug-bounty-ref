@@ -20,3 +20,8 @@ https://medium.com/@zseano/how-re-signing-up-for-an-account-lead-to-account-take
 https://medium.com/bugbountywriteup/weak-cryptography-in-password-reset-to-full-account-takeover-fc61c75b36b9
 
 https://medium.com/bugbountywriteup/simple-logic-leads-to-account-takeover-63fec69e88b7
+
+https://hackerone.com/reports/867513
+
+https://ahussam.me/Medium-full-account-takeover/
+
